@@ -1,4 +1,6 @@
-### Hi, I'm Monica! 👋
+<h1 align="center">Hi, I'm Monica 👋 </h1>
+
+<h2 align="center">A full stack software engineer from Washington state.</h3>
 
 
 - 🌱 I’m currently learning JavaScript and backend development
