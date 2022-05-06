@@ -2,9 +2,10 @@
 
 <h2 align="center">A full stack software engineer from Washington state.</h3>
 
+<!-- <p align="right"><img src="giphy.gif" alt="Michael Scott saying welcome" width="300"/></p> -->
 
 - 🌱 I’m currently learning JavaScript and backend development
-- 🔭 I’m currently working on client websites and accepting new clients. Check out my <a href="https://monica-garcia-dev.netlify.app/">portfolio!</a> 
+- 🔭 I’m currently accepting new clients. Check out my <a href="https://monica-garcia-dev.netlify.app/">portfolio!</a> 
 - 👯 I’m looking to collaborate on any exciting projects
 - 📫 How to reach me: monigarcia.dev@gmail.com
 - ⚡ Fun fact: I'm a big foodie and love discovering new restaurants.
