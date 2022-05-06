@@ -14,4 +14,4 @@
 <a href="https://twitter.com/monibgrt" target="_blank"><img src="twitter-square-brands.svg" alt="Link to Monica's Twitter" height="50" width="45"/></a>
 
 <h3>Languages and Tools:</h3>
-<img src="icons8-css3-144.png" alt="CSS logo">
+<img src="icons8-css3-96.png" alt="CSS logo">
