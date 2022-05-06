@@ -15,3 +15,5 @@
 
 <h3>Languages and Tools:</h3>
 <img src="icons8-css3-96.png" alt="CSS logo">
+<img src="icons8-html-5-96.png" alt="HTML logo">
+<img src="icons8-javascript-96.png" alt="JavaScript logo">
