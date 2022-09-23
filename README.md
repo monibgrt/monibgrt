@@ -2,7 +2,7 @@
 
 <h2 align="center">A Full Stack Software Engineer from Washington state.</h3>
 
-<!-- <p align="right"><img src="giphy.gif" alt="Michael Scott saying welcome" width="300"/></p> -->
+<p align="center"><img src="giphy.gif" alt="Michael Scott saying welcome" width="300"/></p>
 
 - 🌱 I’m currently learning JavaScript and backend development
 - 🔭 I’m currently accepting new clients. Check out my <a href="https://monica-garcia-dev.netlify.app/">portfolio!</a> 
