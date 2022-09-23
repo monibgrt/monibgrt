@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Monica 👋 </h1>
 
-<h2 align="center">A full stack software engineer from Washington state.</h3>
+<h2 align="center">A Full Stack Software Engineer from Washington state.</h3>
 
 <!-- <p align="right"><img src="giphy.gif" alt="Michael Scott saying welcome" width="300"/></p> -->
 
