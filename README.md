@@ -18,3 +18,6 @@
 <a href="#"><img src="icons8-css3-48.png" alt="CSS logo"></a>
 <a href="#"><img src="icons8-html-5-48.png" alt="HTML logo"></a>
 <a href="#"><img src="icons8-javascript-48.png" alt="JavaScript logo"></a>
+<a href="#"><img src="icons8-express-js-48.png" alt="Express logo"></a>
+<a href="#"><img src="icons8-node-js-48.png" alt="Node logo"></a>
+<a href="#"><img src="icons8-mongodb-a-cross-platform-document-oriented-database-program-48.png" alt="Mongodb logo"></a>
